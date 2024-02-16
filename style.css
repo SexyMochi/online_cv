@@ -1,0 +1,19 @@
+.btn {
+    background-color: #B784B7;
+}
+
+.btn:hover {
+    background-color: #8E7AB5;
+}
+
+.text-end {
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+.dakota {
+    display: flex;
+    justify-content: end;
+}
